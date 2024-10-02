@@ -40,5 +40,5 @@ Este repositório está licenciado sob a [Licença MIT](LICENSE).
 A todos os alunos que estão participando e tornando esta jornada incrível! Continuem explorando, criando e inovando! 💪
 
 
-_Ama e faz o que quiseres. Se calares, calarás com amor; se gritares, gritarás com amor; se corrigires, corrigirás com amor; se perdoares, perdoarás com amor. Se tiveres o amor enraizado em ti, nenhuma coisa senão o amor serão os teus frutos._ 
-_~ Agostinho_
+_Ama e faz o que quiseres. Se calares, calarás com amor; se gritares, gritarás com amor; se corrigires, corrigirás com amor; se perdoares, perdoarás com amor. Se tiveres o amor enraizado em ti, nenhuma coisa senão o amor serão os teus frutos.
+_~Agostinho_
