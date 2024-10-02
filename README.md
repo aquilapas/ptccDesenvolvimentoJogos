@@ -1,4 +1,4 @@
-# 🎮 PTCC 🎓 - Planejamento do Trabalho de Conclusão de Curso (TCC) em Programação de Jogos Digitais 
+# 🎮 PTCC 🎓 - Planejamento do Trabalho de Conclusão de Curso (TCC) em Programação de Jogos Digitais - ETEC LAURO GOMES
 
 Bem-vindo ao repositório oficial da disciplina **Planejamento do Trabalho de Conclusão de Curso (TCC) em Programação de Jogos Digitais**! Este espaço foi criado para ajudar os alunos a acessarem os materiais das aulas, recursos extras e exemplos práticos que auxiliarão no desenvolvimento de seus TCCs. 🎓
 
