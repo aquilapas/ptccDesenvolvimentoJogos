@@ -1,1 +1,0 @@
-Objetivo: Contém as pastas de cada aula, organizadas com slides, materiais adicionais e exemplos de código.
